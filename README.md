@@ -18,7 +18,7 @@ Make sure you have the following installed on your system:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/chat-with-doctor.git
+   git clone https://github.com/rahulkothuri/chat-with-doctor.git
    cd chat-with-doctor
    ```
 
