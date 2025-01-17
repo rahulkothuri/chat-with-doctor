@@ -1,4 +1,4 @@
-# Chat with Doctor \U0001F3E5
+# Chat with Doctor
 
 This project is a **Retrieval-Augmented Generation (RAG) application** designed to help users interact with medical case datasets in a conversational manner. The application uses advanced language models to analyze and extract insights from medical clinical summaries and doctor-patient conversations. Users can upload PDF files containing these datasets, ask questions, and receive accurate and contextually relevant responses.
 
